@@ -1,7 +1,3 @@
 #Physics Engine Test
 
-Testing physics.
-
-test
-
-test
+Testing physics on Unity3D.
